@@ -2,15 +2,6 @@
   text-align: center;
 }
 
-body {
-  font-family: "Lucida Console", Courier, monospace;
-}
-
-h1 {
-  text-align: center;
-  color: black;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
